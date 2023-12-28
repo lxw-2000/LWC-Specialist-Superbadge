@@ -1,6 +1,5 @@
 import { LightningElement, api } from 'lwc';
 // imports
-import updateBoatList from '@salesforce/apex/BoatDataService.updateBoatList';
 import { ShowToastEvent } from 'lightning/platformShowToastEvent';
 // import BOAT_REVIEW_OBJECT from schema - BoatReview__c
 import BOAT_REVIEW_OBJECT from '@salesforce/schema/BoatReview__c';
